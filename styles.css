@@ -47,7 +47,7 @@ a:hover {
   top: 0;
   z-index: 10;
   background: rgba(251, 251, 250, 0.96);
-  border-bottom: 1px solid var(--line);
+  border-bottom: none;
   backdrop-filter: blur(8px);
 }
 
@@ -86,7 +86,7 @@ a:hover {
 
 .section {
   padding: 68px 0;
-  border-bottom: 1px solid var(--line);
+  border-bottom: none;
 }
 
 .intro {
@@ -202,7 +202,7 @@ h2 {
   grid-template-columns: 62px minmax(0, 1fr);
   gap: 20px;
   padding: 19px 0;
-  /* border-bottom: 1px solid var(--line); */
+  /* border-bottom: none; */
 }
 
 .year {
