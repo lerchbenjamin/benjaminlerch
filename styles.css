@@ -320,3 +320,17 @@ h2 {
     border-top: none !important;
     border-bottom: none !important;
 }
+
+/* Subsection navigation under Research and Policy */
+.section-title-row {
+  margin-bottom: 0;
+}
+
+.section-title-row h2 {
+  margin-bottom: 0;
+}
+
+.section-links {
+  margin-top: 0.35rem;
+  margin-bottom: 1.4rem;
+}
